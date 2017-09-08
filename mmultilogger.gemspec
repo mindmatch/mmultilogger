@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["duksis@gmail.com"]
 
   spec.summary       = %q{Logger proxy that allows to log to multiple loggers at the same time}
-  spec.description   = %q{Mmultilogger enables you to log to to different places with different configuration as long as the loggers impplement the same interface.}
+  spec.description   = %q{Mmultilogger enables you to log to different places with different configuration as long as the loggers impplement the same interface.}
   spec.homepage      = "https://github.com/mindmatch/mmultilogger"
   spec.license       = "MIT"
 
